@@ -1,5 +1,5 @@
 ### Atrial-Fibrillation
-###H eart Physiology
+### Heart Physiology
 ### QRS Complex Detection
 ### Pan-Tompkins Algorithm
 ### Extending Pan-Tompkins
