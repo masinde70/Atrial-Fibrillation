@@ -1,5 +1,5 @@
 
-![Project Stages](Images/)
+![Project Stages](Images/nd320-c4-l4-lesson-concepts.png)
 
 
 
