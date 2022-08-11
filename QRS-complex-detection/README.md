@@ -1,7 +1,7 @@
 #### QRS complex. 
 Finding QRS complexes in the ECG signal is important for a number of algorithmic goals. It directly gives you information about the heart rate and heart rhythm and provides important context when doing more complex processing.
 
-![QRS](/Images/SinusRhythmLabels.svg.png)
+![QRS](/Images/SinusRhythmLabels.png)
 
 
 ### Pan-Tompkins Algorithm
