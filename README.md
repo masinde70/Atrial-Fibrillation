@@ -1,11 +1,11 @@
 ### Atrial-Fibrillation
 ### Heart Physiology
 ### QRS Complex Detection
-### Pan-Tompkins Algorithm
-### Extending Pan-Tompkins
+ -  Pan-Tompkins Algorithm
+ -  Extending Pan-Tompkins
 ### Atrial Fibrillation Physiology
 ### Arrhythmia Detection
-### Computing in Cardiology Challenge 2017
-### Data Exploration
-### Feature Extraction
-### Modelling
+ -  Computing in Cardiology Challenge 2017
+ -  Data Exploration
+ -  Feature Extraction
+ -   Modelling
