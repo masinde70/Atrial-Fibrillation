@@ -1,7 +1,20 @@
+## **An algorithm that automatically detects atrial fibrillation and other arrhythmias from the ECG signal.**
+
+- Arrhythmia: An irregular heart rhythm.
+- Sinus Rhythm: The normal, regular heart rhythm, paced by the sinus node.
+- Atrial fibrillation: An irregular rhythm caused by multiple, haphazard depolarizations across the atria.
+
+
+### Computing in Cardiology Challenge 2017
+
+[AF Classification from a Short Single Lead ECG Recording: The PhysioNet/Computing in Cardiology Challenge 2017
+](https://physionet.org/content/challenge-2017/1.0.0/)
+
 ### Project Stages
 
 
 ![Project Stages](Images/nd320-c4-l4-lesson-concepts.png)
+
 
 ### Heart Physiology
 The heart is made up of four chambers, two atria and two ventricles. The atria pump blood into the 
