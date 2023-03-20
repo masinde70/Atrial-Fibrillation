@@ -1,5 +1,34 @@
 ## **An algorithm that automatically detects atrial fibrillation and other arrhythmias from the ECG signal.**
 
+
+## Dataset 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Atrial Fibrillation**
 Atrial fibrillation (AFib) is a condition where the heartbeat becomes erratic and the upper chambers of 
 the heart quiver and shake. If there’s a lurking blood clot, this shaking can break it loose and send it up
