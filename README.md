@@ -3,7 +3,9 @@
 
 ## Dataset 
 
+The data we will use comes from the Computing in Cardiology (CinC) Challenge 2017 dataset hosted on Physionet.
 
+The dataset contains thousands of short ECG snippets (30s - 60s) from the AliveCor mobile ECG monitor. The original challenge was to build a 4-class classifier for sinus rhythm, atrial fibrillation, alternative rhythm, and noisy record. We will throw out the noisy records and build a two-class classifier distinguishing between sinus rhythm and another rhythm (atrial fibrillation included).
 
 
 
